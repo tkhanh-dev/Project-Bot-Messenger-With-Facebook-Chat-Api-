@@ -1,6 +1,6 @@
 {
-  "prefix": "#",
-  "ownerID": "100030880666720",
+  "prefix": "/",
+  "ownerID": "61554405703021",
   "autoRestart": false,
   "autoGreet": false,
   "option": {
@@ -9,8 +9,8 @@
     "logLevel": "error",
     "selfListen": true,
     "updatePresence": true,
-    "autoMarkDelivery": true,
-    "autoMarkRead": true,
-    "online": true
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "online": false
   }
 }
