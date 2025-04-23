@@ -9,8 +9,8 @@
     "logLevel": "error",
     "selfListen": true,
     "updatePresence": true,
-    "autoMarkDelivery": false,
+    "autoMarkDelivery": true,
     "autoMarkRead": false,
-    "online": false
+    "online": true
   }
 }
