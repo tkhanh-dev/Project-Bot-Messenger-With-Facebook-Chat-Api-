@@ -1,5 +1,5 @@
 {
-  "name": "fbot",
+  "name": "Project Bot Messenger",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magi17/Fbot-V1.3.git"
+    "url": "git+https://github.com/tkhanh-dev/Project-Bot-Messenger-With-Facebook-Chat-Api-.git"
   },
   "bugs": {
-    "url": "https://github.com/magi17/Fbot-V1.3/issues"
+    "url": "https://github.com/magi17/tkhanh-dev/Project-Bot-Messenger-With-Facebook-Chat-Api-/issues"
   },
-  "homepage": "https://github.com/magi17/Fbot-V1.3#readme"
+  "homepage": "https://github.com/tkhanh-dev/Project-Bot-Messenger-With-Facebook-Chat-Api-#readme"
 }
